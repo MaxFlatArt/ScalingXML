@@ -1,0 +1,7 @@
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\bin\Debug\ScalingXML.exe.config
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\bin\Debug\ScalingXML.exe
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\bin\Debug\ScalingXML.pdb
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\obj\Debug\ScalingXML.csprojAssemblyReference.cache
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\obj\Debug\ScalingXML.csproj.CoreCompileInputs.cache
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\obj\Debug\ScalingXML.exe
+C:\Users\gato-\source\repos\ScalingXML\ScalingXML\obj\Debug\ScalingXML.pdb
